@@ -1,0 +1,4 @@
+﻿  Product.StockOOPC++Project.cpp
+C:\Users\User\Desktop\Product Stock\Product.StockOOPC++Project\Product.StockOOPC++Project\Product.StockOOPC++Project.cpp(155,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\Product Stock\Product.StockOOPC++Project\Product.StockOOPC++Project\Product.StockOOPC++Project.cpp(136): warning C4715: 'Stock::GetProduct': not all control paths return a value
+  Product.StockOOPC++Project.vcxproj -> C:\Users\User\Desktop\Product Stock\Product.StockOOPC++Project\x64\Debug\Product.StockOOPC++Project.exe
